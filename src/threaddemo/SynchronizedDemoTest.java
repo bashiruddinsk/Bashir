@@ -19,6 +19,7 @@ public class SynchronizedDemoTest {
         ap02ee1234.start();
         ap03ee1234.start();
         ap04ee1234.start();
+        System.out.println("hello");
 
     }
 }

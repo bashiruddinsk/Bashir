@@ -11,7 +11,7 @@ public class PetrolStation {
 
     }
 
-    public synchronized void diesel(String vehicleNumber, int numberOfLiters)
+    public   void diesel(String vehicleNumber, int numberOfLiters)
     {
         for (int i=0;i<=numberOfLiters;i++)
         {
